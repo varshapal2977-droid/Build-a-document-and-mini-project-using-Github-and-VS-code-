@@ -1,1 +1,23 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Temporary / cache files
+*.tmp
+*.cache
+
+# Log files
+*.log
+
+# Git merge conflict backups
+*.orig
+
+# Environment files (in case you add contact form later)
+.env
+.env.*
 
